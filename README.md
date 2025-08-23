@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/udith-p-u](https://www.linkedin.com/in/udith-p-u)
 
-- 📝 I regularly write articles on [https://medium.com/@udithpu/from-http-to-https-a-journey-through-aws-deployment-challenges-1fd550675bcb](https://medium.com/@udithpu/from-http-to-https-a-journey-through-aws-deployment-challenges-1fd550675bcb)
+- 📝 I regularly write articles on [https://medium.com/@udithpu/from-http-to-https-a-journey-through-aws-deployment-challenges-1fd550675bcb](https://medium.com/@udithpu/)
 
 - 💬 Ask me about **Anything !!!**
 
